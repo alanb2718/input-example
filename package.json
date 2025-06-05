@@ -27,7 +27,7 @@
     "eslint": "^9.25.1",
     "eslint-config-prettier": "^10.0.3",
     "eslint-plugin-svelte": "^3.5.1",
-    "flowbite-svelte": "^0.47.4",
+    "flowbite-svelte": "^1.5.4",
     "jsdom": "^26.1.0",
     "prettier": "^3.5.3",
     "prettier-plugin-svelte": "^3.3.3",
